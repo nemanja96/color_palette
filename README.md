@@ -1,5 +1,5 @@
 # Color Palette
-Load Data from MySQL Database in PHP using jQuery Ajax.
+Load Colors from MySQL Database in PHP using jQuery Ajax.
 
 <img src="img/01.PNG">
 
